@@ -74,7 +74,7 @@ OC.L10N.register(
     "Show watermark for read only link shares" : "Afficher un filigrane pour l'accès de lecture seule par le lien externe",
     "Show watermark on link shares with specific system tags" : "Afficher un filigrane pour l'accès par le lien externe avec les marques spécifiques du système",
     "Select tag" : "Sélectionner une étiquette",
-    "Select file to compare" : "Sélectionner fichier à comparer",
+    "Select file to compare" : "Sélectionner un fichier à comparer",
     "Review mode for viewing": "Mode révision lors de l'affichage",
     "Markup": "Balisage",
     "Final": "Finale",
